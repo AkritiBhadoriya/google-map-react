@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:AkritiBhadoriya/google-map-react.gitt"
+    "url": "https://github.com/AkritiBhadoriya/google-map-react.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
