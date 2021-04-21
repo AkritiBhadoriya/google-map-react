@@ -1,12 +1,12 @@
 {
-  "name": "google-map-react",
+  "name": "vogo-google-map-react",
   "version": "2.1.9",
   "description": "Isomorphic component that allows rendering react components on a google map",
-  "author": "istarkov https://github.com/istarkov",
+  "author": "Akriti Bhadoriya",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google-map-react/google-map-react.git"
+    "url": "git@github.com:AkritiBhadoriya/google-map-react.gitt"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
